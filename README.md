@@ -2,7 +2,7 @@
 
 ## Introduction
 
-"PUP" is a control board specifically designed for MMU (Multi-Material Unit) systems like EMU, where each channel requires an independent controller. Of course, you can use it for any other project you wish.
+"PUP" is a control board specifically designed for MMU (Multi-Material Unit) systems like [EMU](https://github.com/DW-Tas/EMU) , where each channel requires an independent controller. Of course, you can use it for any other project you wish.
 
 ### Specifications
 
