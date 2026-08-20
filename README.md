@@ -21,7 +21,8 @@
       * 1 x NTC temperature sensor interface for temperature monitoring.
       * 1 x ADC pin for PSF Sensor.
   * **Power Output**: The 5V/3A output can drive larger servos.
-<img width="800" height="800" alt="正" src="https://github.com/user-attachments/assets/86e2ee7e-fd1d-43d9-9f03-dc5923acd5a0" />
+<img width="1006" height="1200" alt="ScreenShot_2026-08-20_165452_049" src="https://github.com/user-attachments/assets/a2889e79-85d3-47da-a47c-f76739dcbcc7" />
+
 
 <img width="800" height="875" alt="image" src="https://github.com/user-attachments/assets/8fbddd2b-a178-4310-8daf-c14f5e96fb1f" />
 <img width="800" height="867" alt="image" src="https://github.com/user-attachments/assets/fb2e704b-d1c0-4942-a7a5-d1557ca04803" />
